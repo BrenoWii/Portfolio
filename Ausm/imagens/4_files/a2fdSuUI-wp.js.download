@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["MS\/IY"]); }
+
+__d("XMAIAAcceptDeeplinkTOSController",["XController"],(function a(b,c,d,e,f,g){f.exports=c("XController").create("\/ads\/manage\/mobile_app_install\/tos_dialog\/",{act:{type:"Int",required:true},agree:{type:"Bool",defaultValue:false}});}),null);

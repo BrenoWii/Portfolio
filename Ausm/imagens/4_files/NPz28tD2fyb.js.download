@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["tdVo1"]); }
+
+__d('TextDelightRange.react',['React','TextDelightEvents'],(function a(b,c,d,e,f,g){'use strict';var h,i;h=babelHelpers.inherits(j,c('React').PureComponent);i=h&&h.prototype;j.prototype.componentDidMount=function(){if(this.props.campaignID)c('TextDelightEvents').emitCommentRangeMounted(this.$TextDelightRange1,this.props.campaignID);};j.prototype.render=function(){return c('React').createElement('span',{style:this.props.style,onClick:this.props.onClick,ref:function(k){this.$TextDelightRange1=k;}.bind(this),role:'presentation'},this.props.children);};function j(){h.apply(this,arguments);}f.exports=j;}),null);

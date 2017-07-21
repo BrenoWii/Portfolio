@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["9150Y"]); }
+
+__d('AdsCampaignRemoveMessengerPromotedObjectTypeDataActionPlugin',[],(function a(b,c,d,e,f,g){'use strict';var h={type:'dataAction',key:'campaignRemoveMessengerPromotedObjectType',actionType:'CAMPAIGN.REMOVE_MESSENGER_PROMOTED_OBEJCT_TYPE'};f.exports=h;}),null);

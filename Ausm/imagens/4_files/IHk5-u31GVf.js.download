@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["A2\/Bi"]); }
+
+__d('AdsCampaignSetMessengerPromotedObjectTypeDataActionPlugin',[],(function a(b,c,d,e,f,g){'use strict';var h={type:'dataAction',key:'campaignSetMessengerPromotedObjectType',actionType:'CAMPAIGN.SET_MESSENGER_PROMOTED_OBEJCT_TYPE'};f.exports=h;}),null);
