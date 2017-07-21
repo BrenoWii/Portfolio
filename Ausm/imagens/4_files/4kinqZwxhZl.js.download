@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["zWQ8S"]); }
-
-__d("AdCampaignDestination",[],(function a(b,c,d,e,f,g){f.exports={UNDEFINED:"UNDEFINED",WEBSITE:"WEBSITE",APP:"APP",MESSENGER:"MESSENGER",APPLINKS_AUTOMATIC:"APPLINKS_AUTOMATIC",WHATSAPP:"WHATSAPP"};}),null);

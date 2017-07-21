@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["E+fwk"]); }
-
-__d('AdsAccountAddCapabilitiesDataActionPlugin',[],(function a(b,c,d,e,f,g){'use strict';var h={type:'dataAction',key:'accountAddCapabilities',actionType:'ACCOUNT.ADD_CAPABILITIES'};f.exports=h;}),null);

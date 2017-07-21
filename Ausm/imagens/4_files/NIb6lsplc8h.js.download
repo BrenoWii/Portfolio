@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["5Yt+b"]); }
-
-__d('AdsAccountAddCapabilitiesDataAction',['AdsAccountAddCapabilitiesDataActionPlugin','AdsDataActionCreator'],(function a(b,c,d,e,f,g){'use strict';var h=c('AdsDataActionCreator').create([],c('AdsAccountAddCapabilitiesDataActionPlugin'));f.exports=h;}),null);
