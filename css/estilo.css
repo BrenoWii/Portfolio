@@ -2,7 +2,7 @@
   border: 0;
   color: white;
   background-color: #13a9ba;
-  padding: 10px 30px;
+  padding: 10px,30px;
   border-radius: 3px;
   font-family: "Open Sans","Helvetica Neue", Arial, sans-serif;
   font-size: 0.9em;
@@ -195,7 +195,7 @@ footer{
     flex-direction: row;
     align-items: flex-start;
     flex-wrap: wrap;
-    max-width: 1000px ;
+    max-width: 1000 ;
     margin: 0 auto;
   }
   .servicos h2 {
