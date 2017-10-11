@@ -2,7 +2,7 @@
   border: 0;
   color: white;
   background-color: #13a9ba;
-  padding: 10px,30px;
+  padding: 10px 30px;
   border-radius: 3px;
   font-family: "Open Sans","Helvetica Neue", Arial, sans-serif;
   font-size: 0.9em;
@@ -64,7 +64,7 @@ nav ul li a{
   color: white;
 }
 header{
-  background-image:url("https://s22.postimg.org/n4kckyho1/fundo_escuro.jpg");
+  background-image:url("C:/users/Breno/Desktop/Ausm/imagens/pessoas.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -195,7 +195,7 @@ footer{
     flex-direction: row;
     align-items: flex-start;
     flex-wrap: wrap;
-    max-width: 1000 ;
+    max-width: 1000px ;
     margin: 0 auto;
   }
   .servicos h2 {
