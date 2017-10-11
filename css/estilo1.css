@@ -1,3 +1,4 @@
+
 .button {
   border: 0;
   color: #fff;
@@ -271,7 +272,7 @@ MEDIA QUERIES
     text-align: center;
   }
   
-  .portfolio img {
+  .portfolio a {
     width: 33.333333333333%;
   }
   
