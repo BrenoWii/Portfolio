@@ -31,7 +31,7 @@ section[id] {
 }
 
 /*
-NAVEGAÇÃO
+NAVEGAï¿½ï¿½O
 */
 nav {
   display: flex;
@@ -73,10 +73,10 @@ nav ul li a {
 }
 
 /*
-CABEÇALHO
+CABEï¿½ALHO
 */
 header {
-  background-image: url("https://s22.postimg.org/n4kckyho1/fundo_escuro.jpg");
+  background-image: url("./imagens/fundo_escuro.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -142,7 +142,7 @@ SERVICOS
 }
 
 /*
-PORTFÓLIO
+PORTFï¿½LIO
 */
 .portfolio {
   display: flex;
@@ -207,7 +207,7 @@ MEDIA QUERIES
 */
 @media screen and (min-width: 768px) {
   /*
-  NAVEGAÇÃO
+  NAVEGAï¿½ï¿½O
   */
   nav {
     position: fixed;
@@ -225,7 +225,7 @@ MEDIA QUERIES
   }
   
   /*
-  CABEÇALHO
+  CABEï¿½ALHO
   */
   header {
     height: 100vh;
@@ -261,7 +261,7 @@ MEDIA QUERIES
   }
   
   /*
-  PORTFÓLIO
+  PORTFï¿½LIO
   */
   .portfolio {
     flex-flow: row wrap;
